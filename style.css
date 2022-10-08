@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to right, #A0D995, #6CC4A1)
+}
+
+.BT {
+    color: #4CACBC;
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        background: linear-gradient(to right, #A0D995, #6CC4A1)
+    }
+    .BT {
+        color: #4CACBC;
+    }
+}
